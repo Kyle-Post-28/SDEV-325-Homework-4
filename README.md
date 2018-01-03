@@ -1,0 +1,2 @@
+# SDEV-Homework-4
+In this assignment, I had to create two simple Java applications. Both applications were created to highlight a specific vulnerability and a possible mitigation technique. There are two versions of each application. One version demonstrates the vulnerability and the other demonstrates a mitigation techinuqe put into place. The first vulnerability is a Missing Authentication for Critical Function and the second vulnerability is Use of Hard-coded Credentials. In addition to the code I have screen captured and documented everything in a MS word file. Enjoy!
